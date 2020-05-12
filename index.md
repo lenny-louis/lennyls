@@ -1,7 +1,7 @@
 
-### Tableau
+### Mes projets / développement
 
-Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
+On trouvera à travers ce site tout mes développements informatique.
 
 | SCRIPT | DESCRIPTION |
 | ------ | ------ |
