@@ -1,6 +1,7 @@
 ## Bienvenu sur la page web de Lenny
 
 Ceci est une page de test
+test2
 
 ### Markdown
 
